@@ -3,4 +3,4 @@
 *.gradle
 *.md
 build
-
+*.exercism
